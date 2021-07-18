@@ -1,0 +1,23 @@
+.header
+{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: red;
+}
+
+.copy_right_footer
+{
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 2;
+}
